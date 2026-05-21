@@ -2,7 +2,7 @@
 
 # OpenZT2
 
-Open source game engine reimplementation of Zoo Tycoon 2 Ultimate Collection using Panda3D.
+Open source game engine reimplementation of Zoo Tycoon 2 Ultimate Collection.
 
 ## Disclaimer
 
