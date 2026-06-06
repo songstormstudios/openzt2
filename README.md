@@ -4,6 +4,11 @@
 
 Open source game engine reimplementation of Zoo Tycoon 2 Ultimate Collection.
 
+# Features
+- Ability for larger maps and enlarged mod collections with 64-bit support
+- Requested features including auto-save, re-do, and more
+- Open codebase to easily extend game features and develop more advanced mods
+
 ## Disclaimer
 
 Notice: this is a fan-made project and is not affiliated in any way with Blue Fang Games, Xbox Game Studios, or Microsoft. All Zoo Tycoon assets belong to the copyright holder. OpenZT2 requires users to provide their legally obtained install of Zoo Tycoon 2: Ultimate Collection.
