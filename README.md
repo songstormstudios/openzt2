@@ -4,11 +4,11 @@
 
 Open source game engine reimplementation of Zoo Tycoon 2 Ultimate Collection.
 
-# Release Status
+## Release Status
 
 Pre-alpha technical demo to launch by mid-June 2026, with alpha set for October 17th, 2026 in celebration of the 25th anniversay of the franchise. 
 
-# Features
+## Features
 - Ability for larger maps and enlarged mod collections with 64-bit support
 - Requested features including auto-save, re-do, and more
 - Open codebase to easily extend game features and develop more advanced mods
