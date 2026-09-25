@@ -3,10 +3,11 @@
 
 OpenZT2 is an open-source engine reimplementation of Zoo Tycoon 2 Ultimate Collection.
 
-New features which OpenZT2 include (as of pre-alpha release):
+New features which OpenZT2 include (as of pre-alpha):
 - Mod reloading (reload mods from the main menu without restarting the game)
 - Re-do functionality (CTRL+Y shortcut)
 - 64-bit platform support for Windows, Linux, and macOS
+- Controller support for XInput devices
 - Modern shader pipeline (vkd3d-shader and MojoShader compile the original D3D9 Effects into shaders and evaluated pass state for Bevy’s renderer)
 - Better performance improvements powered by the Bevy engine in Rust
 
