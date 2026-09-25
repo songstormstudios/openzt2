@@ -1,4 +1,5 @@
-<img width="1477" height="1138" alt="openzt2" src="https://github.com/user-attachments/assets/e4d2431f-f042-4e20-8e38-f1c56f707a2d" />
+<img width="1477" height="546" alt="openzt2" src="https://github.com/user-attachments/assets/fcffdcda-fe14-4df2-8307-62c97eff160e" />
+
 
 OpenZT2 is an open-source engine reimplementation of Zoo Tycoon 2 Ultimate Collection.
 
