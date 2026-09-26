@@ -1,7 +1,7 @@
 <img width="1477" height="546" alt="openzt2" src="https://github.com/user-attachments/assets/fcffdcda-fe14-4df2-8307-62c97eff160e" />
 
 
-OpenZT2 is an open-source engine reimplementation of Zoo Tycoon 2 Ultimate Collection.
+OpenZT2 is an open-source engine reimplementation of Zoo Tycoon 2 Ultimate Collection, a simulation game which tasks a player with managing zoos and aquariums.
 
 New features which OpenZT2 include (as of pre-alpha):
 - Mod reloading (reload mods from the main menu without restarting the game)
