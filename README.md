@@ -3,8 +3,6 @@
 
 OpenZT2 is an open-source engine reimplementation of Zoo Tycoon 2 Ultimate Collection.
 
-**DEVELOPER NOTE: PRE-ALPHA PULLED DUE TO GAME-BREAKING BUG. WILL BE FIXED AND RELEASED ASAP**
-
 New features which OpenZT2 include (as of pre-alpha):
 - Mod reloading (reload mods from the main menu without restarting the game)
 - Re-do functionality (CTRL+Y shortcut)
